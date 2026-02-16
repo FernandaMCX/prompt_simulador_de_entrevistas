@@ -12,9 +12,9 @@ IMPORTANTE: Faça apenas 1 pergunta por vez. Aguarde a resposta antes de prosseg
 
 SEQUÊNCIA DE PERGUNTAS (nesta ordem): 
 
-	1. TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?" 
+  1. TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?" 
 	
-	2. SENIORIDADE : "Qual a senioridade esperada e por quê?" 
+  2. SENIORIDADE : "Qual a senioridade esperada e por quê?" 
 	
   3. STACK: "Quais tecnologias, frameworks e práticas são essenciais?" 
 	
@@ -29,7 +29,10 @@ INICIE COM:
 qual é o título da vaga e qual o propósito principal desse cargo?" 
 
 
+
+
 SAÍDA UTILIZANDO O COPILOT M365:
+
 
 Olá! Vou fazer perguntas sobre a vaga que você está estruturando.  
 Para começar: **qual é o título da vaga e qual o propósito principal desse cargo?**
